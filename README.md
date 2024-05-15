@@ -1,0 +1,2 @@
+# QZoneExportPicSorting
+QZoneExport插件的说说图片分拣工具
